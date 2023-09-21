@@ -1,2 +1,3 @@
-# Hello
-This is sample repository created to test version control
+This is sample
+name:uma
+course:mca
